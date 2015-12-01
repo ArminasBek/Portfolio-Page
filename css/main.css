@@ -19,9 +19,15 @@ header a, a:link, a:visited {
 	border-top: 3px double;
 	border-bottom: 3px double;
 	padding-top: 15px;
-	padding-bottom: 15px;	
 }
-
+.proj {
+	margin-top: 25px;
+	margin-bottom: 50px;
+}
+figcaption {
+	padding-top: 5px;
+	font-weight: bold;
+}
 /* FOOTER */
 footer {
 	text-align: center;
@@ -34,7 +40,13 @@ footer {
 	padding: 10px;
 }
 
+.contact i {
+	padding-left: 5px;
+} 
 
+.contact a:hover{
+	color: #7ec0ee;
+}
 
 
 
