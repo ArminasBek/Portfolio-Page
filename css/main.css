@@ -1,4 +1,7 @@
 /* MAIN */
+body {
+ background: url(../img/pat-pixels.png) repeat;
+}
 .col-centered{
 	float: none;
 	margin: 0 auto;
